@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Programming STEM Project - [TEMPLATE]</title>
+  <title>Heat Unit Converter</title>
   <style>
     /* styles for layout */
     .center {
